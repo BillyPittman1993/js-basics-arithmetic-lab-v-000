@@ -6,6 +6,6 @@ Variables defined in the test suite:
 You should NOT try to redefine any of the above variables.
 */
 
-// Write your code below this line!
+// Write your code below thconstis line!
 
-const newId = oldId + 1000000000;; 
+ const newId = oldId + 1000000000; 
