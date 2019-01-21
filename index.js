@@ -16,4 +16,4 @@ You should NOT try to redefine any of the above variables.
  
  const randomInteger = Math.round(randomNumber);
  
- const randomUserId = 
+ const randomUserId = randomInteger + 
