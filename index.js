@@ -14,4 +14,4 @@ You should NOT try to redefine any of the above variables.
  
  const RandomNumber = Math.random() * 20;
  
- const randomInteger = Math.round(roundNumber);
+ const randomInteger = Math.round(randomNumber);
