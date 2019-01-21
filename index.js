@@ -12,4 +12,4 @@ You should NOT try to redefine any of the above variables.
  
  const ageIsValid = Number.isInteger(currentAge);
  
- 
+ const RandomNumber = 
